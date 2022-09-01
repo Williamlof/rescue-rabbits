@@ -7,7 +7,7 @@
       "desc": "",
       "uploaded": "2022-09-01",
       "location": "Stockholm",
-      "image": "",
+      "image": "https://via.placeholder.com/150",
       "gender": "male"
     },
     {
@@ -17,7 +17,7 @@
       "desc": "Nalle",
       "uploaded": "2022-09-01",
       "location": "Stockholm",
-      "image": "",
+      "image": "https://via.placeholder.com/150",
       "gender": "male"
     },
     {
@@ -27,7 +27,7 @@
       "desc": "glenn",
       "uploaded": "2022-09-01",
       "location": "Göteborg",
-      "image": "",
+      "image": "https://via.placeholder.com/150",
       "gender": "male"
     },
     {
@@ -37,7 +37,7 @@
       "desc": "doris",
       "uploaded": "2022-09-01",
       "location": "Karlstad",
-      "image": "",
+      "image": "https://via.placeholder.com/150",
       "gender": "female"
     },
     {
@@ -47,7 +47,7 @@
       "desc": "boris",
       "uploaded": "2022-09-01",
       "location": "Ulricehamn",
-      "image": "",
+      "image": "https://via.placeholder.com/150",
       "gender": "male"
     },
     {
@@ -57,7 +57,7 @@
       "desc": "chip",
       "uploaded": "2022-09-01",
       "location": "Luleå",
-      "image": "",
+      "image": "https://via.placeholder.com/150",
       "gender": "male"
     },
     {
@@ -67,7 +67,7 @@
       "desc": "ulf",
       "uploaded": "2022-09-01",
       "location": "Karlstad",
-      "image": "",
+      "image": "https://via.placeholder.com/150",
       "gender": "male"
     },
     {
@@ -77,7 +77,7 @@
       "desc": "ricky",
       "uploaded": "2022-09-01",
       "location": "Frödingshöjd",
-      "image": "",
+      "image": "https://via.placeholder.com/150",
       "gender": "male"
     },
     {
@@ -87,7 +87,7 @@
       "desc": "william",
       "uploaded": "2022-09-01",
       "location": "Karlstad",
-      "image": "",
+      "image": "https://via.placeholder.com/150",
       "gender": "male"
     },
     {
@@ -97,7 +97,7 @@
       "desc": "hampus",
       "uploaded": "2022-09-01",
       "location": "Säffle",
-      "image": "",
+      "image": "https://via.placeholder.com/150",
       "gender": "male"
     },
     {
@@ -107,7 +107,7 @@
       "desc": "rolf",
       "uploaded": "2022-09-01",
       "location": "Ljungskile",
-      "image": "",
+      "image": "https://via.placeholder.com/150",
       "gender": "male"
     },
     {
@@ -117,7 +117,7 @@
       "desc": "åsa",
       "uploaded": "2022-09-01",
       "location": "Borlänge",
-      "image": "",
+      "image": "https://via.placeholder.com/150",
       "gender": "female"
     },
     {
@@ -127,7 +127,7 @@
       "desc": "felix",
       "uploaded": "2022-09-01",
       "location": "Åtvidaberg",
-      "image": "",
+      "image": "https://via.placeholder.com/150",
       "gender": "male"
     },
     {
@@ -137,7 +137,7 @@
       "desc": "ida",
       "uploaded": "2022-09-01",
       "location": "Kil",
-      "image": "",
+      "image": "https://via.placeholder.com/150",
       "gender": "female"
     },
     {
@@ -147,7 +147,7 @@
       "desc": "linus",
       "uploaded": "2022-09-01",
       "location": "Örebro",
-      "image": "",
+      "image": "https://via.placeholder.com/150",
       "gender": "male"
     },
     {
@@ -157,7 +157,7 @@
       "desc": "tim",
       "uploaded": "2022-09-01",
       "location": "Säffle",
-      "image": "",
+      "image": "https://via.placeholder.com/150",
       "gender": "male"
     },
     {
@@ -167,7 +167,7 @@
       "desc": "monica",
       "uploaded": "2022-09-01",
       "location": "Vänersborg",
-      "image": "",
+      "image": "https://via.placeholder.com/150",
       "gender": "female"
     },
     {
@@ -177,7 +177,7 @@
       "desc": "julia",
       "uploaded": "2022-09-01",
       "location": "Karlskoga",
-      "image": "",
+      "image": "https://via.placeholder.com/150",
       "gender": "female"
     },
     {
@@ -187,7 +187,7 @@
       "desc": "pelle",
       "uploaded": "2022-09-01",
       "location": "Trollhättan",
-      "image": "",
+      "image": "https://via.placeholder.com/150",
       "gender": "male"
     },
     {
@@ -197,7 +197,7 @@
       "desc": "christopher",
       "uploaded": "2022-09-01",
       "location": "Sundsvall",
-      "image": "",
+      "image": "https://via.placeholder.com/150",
       "gender": "male"
     }
   ]
