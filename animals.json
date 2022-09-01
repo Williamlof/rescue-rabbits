@@ -8,7 +8,7 @@
       "uploaded": "2022-09-01",
       "location": "Stockholm",
       "image": "",
-      "sex": "male"
+      "gender": "male"
     },
     {
       "name": "Nalle",
@@ -18,7 +18,7 @@
       "uploaded": "2022-09-01",
       "location": "Stockholm",
       "image": "",
-      "sex": "male"
+      "gender": "male"
     },
     {
       "name": "Glenn",
@@ -28,7 +28,7 @@
       "uploaded": "2022-09-01",
       "location": "Göteborg",
       "image": "",
-      "sex": "male"
+      "gender": "male"
     },
     {
       "name": "Doris",
@@ -38,7 +38,7 @@
       "uploaded": "2022-09-01",
       "location": "Karlstad",
       "image": "",
-      "sex": "female"
+      "gender": "female"
     },
     {
       "name": "Boris",
@@ -48,7 +48,7 @@
       "uploaded": "2022-09-01",
       "location": "Ulricehamn",
       "image": "",
-      "sex": "male"
+      "gender": "male"
     },
     {
       "name": "Chip",
@@ -58,7 +58,7 @@
       "uploaded": "2022-09-01",
       "location": "Luleå",
       "image": "",
-      "sex": "male"
+      "gender": "male"
     },
     {
       "name": "Ulf",
@@ -68,7 +68,7 @@
       "uploaded": "2022-09-01",
       "location": "Karlstad",
       "image": "",
-      "sex": "male"
+      "gender": "male"
     },
     {
       "name": "Ricky",
@@ -78,7 +78,7 @@
       "uploaded": "2022-09-01",
       "location": "Frödingshöjd",
       "image": "",
-      "sex": "male"
+      "gender": "male"
     },
     {
       "name": "William",
@@ -88,7 +88,7 @@
       "uploaded": "2022-09-01",
       "location": "Karlstad",
       "image": "",
-      "sex": "male"
+      "gender": "male"
     },
     {
       "name": "Hampus",
@@ -98,7 +98,7 @@
       "uploaded": "2022-09-01",
       "location": "Säffle",
       "image": "",
-      "sex": "male"
+      "gender": "male"
     },
     {
       "name": "Rolf",
@@ -108,7 +108,7 @@
       "uploaded": "2022-09-01",
       "location": "Ljungskile",
       "image": "",
-      "sex": "male"
+      "gender": "male"
     },
     {
       "name": "Åsa",
@@ -118,7 +118,7 @@
       "uploaded": "2022-09-01",
       "location": "Borlänge",
       "image": "",
-      "sex": "female"
+      "gender": "female"
     },
     {
       "name": "Felix",
@@ -128,7 +128,7 @@
       "uploaded": "2022-09-01",
       "location": "Åtvidaberg",
       "image": "",
-      "sex": "male"
+      "gender": "male"
     },
     {
       "name": "Ida",
@@ -138,7 +138,7 @@
       "uploaded": "2022-09-01",
       "location": "Kil",
       "image": "",
-      "sex": "female"
+      "gender": "female"
     },
     {
       "name": "Linus",
@@ -148,7 +148,7 @@
       "uploaded": "2022-09-01",
       "location": "Örebro",
       "image": "",
-      "sex": "male"
+      "gender": "male"
     },
     {
       "name": "Tim",
@@ -158,7 +158,7 @@
       "uploaded": "2022-09-01",
       "location": "Säffle",
       "image": "",
-      "sex": "male"
+      "gender": "male"
     },
     {
       "name": "Monica",
@@ -168,7 +168,7 @@
       "uploaded": "2022-09-01",
       "location": "Vänersborg",
       "image": "",
-      "sex": "female"
+      "gender": "female"
     },
     {
       "name": "Julia",
@@ -178,7 +178,7 @@
       "uploaded": "2022-09-01",
       "location": "Karlskoga",
       "image": "",
-      "sex": "female"
+      "gender": "female"
     },
     {
       "name": "Pelle",
@@ -188,7 +188,7 @@
       "uploaded": "2022-09-01",
       "location": "Trollhättan",
       "image": "",
-      "sex": "male"
+      "gender": "male"
     },
     {
       "name": "Christopher",
@@ -198,7 +198,7 @@
       "uploaded": "2022-09-01",
       "location": "Sundsvall",
       "image": "",
-      "sex": "male"
+      "gender": "male"
     }
   ]
 }
