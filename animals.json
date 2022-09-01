@@ -1,0 +1,22 @@
+{
+  "animals": [
+    {
+      "name": "Nasse",
+      "animal": "Minigris",
+      "age": "2",
+      "desc": "Nasse",
+      "uploaded": "2022-09-01",
+      "location": "Stockholm",
+      "image": ""
+    },
+    {
+      "name": "Nalle",
+      "animal": "hund",
+      "age": "2",
+      "desc": "Nalle",
+      "uploaded": "2022-09-01",
+      "location": "Stockholm",
+      "image": ""
+    }
+  ]
+}
