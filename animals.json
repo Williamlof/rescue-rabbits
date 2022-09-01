@@ -4,19 +4,201 @@
       "name": "Nasse",
       "animal": "Minigris",
       "age": "2",
-      "desc": "Nasse",
+      "desc": "",
       "uploaded": "2022-09-01",
       "location": "Stockholm",
-      "image": ""
+      "image": "",
+      "sex": "male"
     },
     {
       "name": "Nalle",
-      "animal": "hund",
+      "animal": "Hund",
       "age": "2",
       "desc": "Nalle",
       "uploaded": "2022-09-01",
       "location": "Stockholm",
-      "image": ""
+      "image": "",
+      "sex": "male"
+    },
+    {
+      "name": "Glenn",
+      "animal": "Hamster",
+      "age": "1",
+      "desc": "glenn",
+      "uploaded": "2022-09-01",
+      "location": "Göteborg",
+      "image": "",
+      "sex": "male"
+    },
+    {
+      "name": "Doris",
+      "animal": "Markatta",
+      "age": "5",
+      "desc": "doris",
+      "uploaded": "2022-09-01",
+      "location": "Karlstad",
+      "image": "",
+      "sex": "female"
+    },
+    {
+      "name": "Boris",
+      "animal": "Hund",
+      "age": "5",
+      "desc": "boris",
+      "uploaded": "2022-09-01",
+      "location": "Ulricehamn",
+      "image": "",
+      "sex": "male"
+    },
+    {
+      "name": "Chip",
+      "animal": "Markatta",
+      "age": "2",
+      "desc": "chip",
+      "uploaded": "2022-09-01",
+      "location": "Luleå",
+      "image": "",
+      "sex": "male"
+    },
+    {
+      "name": "Ulf",
+      "animal": "Katt",
+      "age": "11",
+      "desc": "ulf",
+      "uploaded": "2022-09-01",
+      "location": "Karlstad",
+      "image": "",
+      "sex": "male"
+    },
+    {
+      "name": "Ricky",
+      "animal": "Hund",
+      "age": "4",
+      "desc": "ricky",
+      "uploaded": "2022-09-01",
+      "location": "Frödingshöjd",
+      "image": "",
+      "sex": "male"
+    },
+    {
+      "name": "William",
+      "animal": "Markatta",
+      "age": "14",
+      "desc": "william",
+      "uploaded": "2022-09-01",
+      "location": "Karlstad",
+      "image": "",
+      "sex": "male"
+    },
+    {
+      "name": "Hampus",
+      "animal": "Minigris",
+      "age": "5",
+      "desc": "hampus",
+      "uploaded": "2022-09-01",
+      "location": "Säffle",
+      "image": "",
+      "sex": "male"
+    },
+    {
+      "name": "Rolf",
+      "animal": "Minigris",
+      "age": "9",
+      "desc": "rolf",
+      "uploaded": "2022-09-01",
+      "location": "Ljungskile",
+      "image": "",
+      "sex": "male"
+    },
+    {
+      "name": "Åsa",
+      "animal": "Hamster",
+      "age": "1",
+      "desc": "åsa",
+      "uploaded": "2022-09-01",
+      "location": "Borlänge",
+      "image": "",
+      "sex": "female"
+    },
+    {
+      "name": "Felix",
+      "animal": "Katt",
+      "age": "9",
+      "desc": "felix",
+      "uploaded": "2022-09-01",
+      "location": "Åtvidaberg",
+      "image": "",
+      "sex": "male"
+    },
+    {
+      "name": "Ida",
+      "animal": "Markatta",
+      "age": "18",
+      "desc": "ida",
+      "uploaded": "2022-09-01",
+      "location": "Kil",
+      "image": "",
+      "sex": "female"
+    },
+    {
+      "name": "Linus",
+      "animal": "Hund",
+      "age": "6",
+      "desc": "linus",
+      "uploaded": "2022-09-01",
+      "location": "Örebro",
+      "image": "",
+      "sex": "male"
+    },
+    {
+      "name": "Tim",
+      "animal": "Hamster",
+      "age": "2",
+      "desc": "tim",
+      "uploaded": "2022-09-01",
+      "location": "Säffle",
+      "image": "",
+      "sex": "male"
+    },
+    {
+      "name": "Monica",
+      "animal": "Hund",
+      "age": "2",
+      "desc": "monica",
+      "uploaded": "2022-09-01",
+      "location": "Vänersborg",
+      "image": "",
+      "sex": "female"
+    },
+    {
+      "name": "Julia",
+      "animal": "Hund",
+      "age": "7",
+      "desc": "julia",
+      "uploaded": "2022-09-01",
+      "location": "Karlskoga",
+      "image": "",
+      "sex": "female"
+    },
+    {
+      "name": "Pelle",
+      "animal": "Katt",
+      "age": "9",
+      "desc": "pelle",
+      "uploaded": "2022-09-01",
+      "location": "Trollhättan",
+      "image": "",
+      "sex": "male"
+    },
+    {
+      "name": "Christopher",
+      "animal": "Hamster",
+      "age": "3",
+      "desc": "christopher",
+      "uploaded": "2022-09-01",
+      "location": "Sundsvall",
+      "image": "",
+      "sex": "male"
     }
   ]
 }
